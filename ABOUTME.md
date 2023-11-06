@@ -2,7 +2,7 @@
 
 # What I'm working on 👨‍💻 
 - I am the owner and founder of Christian Learning, a company offering virtual services for learning the bible.
-- Our main creation is Christian AI .... fixing bugs at the moment.
+- Our main creation is Christian AI tool.
 - I work my projects in Python, C++, and Java, so you might need to download different pathways and environments to see my code. Or you can just honestly find an online compiler, a super simple one is onlinegdb.com .
 
 # About Me 😁
